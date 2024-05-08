@@ -1,4 +1,4 @@
-### Initial network handshake with bitcoin core node
+# Initial network handshake with bitcoin core node
 
 With the JS/TS background, I consider this project being a huge milestone for the following reasons:
 
